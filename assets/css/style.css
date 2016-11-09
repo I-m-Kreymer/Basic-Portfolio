@@ -1,0 +1,51 @@
+body {
+	
+	
+
+}
+
+.Site_Size {
+	margin: 0 auto;
+	width: 960px;
+	background-image: url("../images/back_pattern.png");
+}
+
+.Website_Header {
+	background-color: #fff;
+	text-align:center;
+	padding-bottom: 90px;
+	border-color: #fff;
+	border-bottom-color: #cccccc;
+	border-width:2px;
+	border-style:solid;
+	width:100%;
+
+
+}
+
+.Your_Name {
+	background-color: #4aaaa5;
+	width: 180px;
+	height:30px;
+	padding: 10px 2px 5px 2px;
+	float: left;
+	font-family: "Georgia", Times, Times New Roman, serif;
+	color: #fff;
+	font-size: 25px;
+	font-weight:bold;
+	margin: 45px 0px 0px 150px;
+}
+
+.Page_Navigation {
+	float:right;
+	width:30%;
+	padding: 20px;
+}
+
+.Entire_Website {
+	clear:both;
+}
+
+.Content {
+
+}
