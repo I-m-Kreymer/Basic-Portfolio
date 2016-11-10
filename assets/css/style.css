@@ -1,26 +1,21 @@
 body {
-	
-	
-
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-.Site_Size {
-	margin: 0 auto;
-	width: 960px;
-	background-image: url("../images/back_pattern.png");
+.Header_Design {
+	background-color: #fff;
+
 }
 
 .Website_Header {
-	background-color: #fff;
 	text-align:center;
-	padding-bottom: 90px;
+	padding-bottom: 50px;
 	border-color: #fff;
 	border-bottom-color: #cccccc;
 	border-width:2px;
 	border-style:solid;
-	width:100%;
-
-
+	margin: 0 auto;
+	width: 960px;
 }
 
 .Your_Name {
@@ -33,19 +28,67 @@ body {
 	color: #fff;
 	font-size: 25px;
 	font-weight:bold;
-	margin: 45px 0px 0px 150px;
+	margin: 5px 0px 0px 20px;
 }
 
 .Page_Navigation {
 	float:right;
 	width:30%;
-	padding: 20px;
+	padding: 10px 0px 0px 0px;
+	word-spacing: 5px;
 }
 
-.Entire_Website {
-	clear:both;
+
+.Content_Background{
+	background-image: url("../images/back_pattern.png");
+	margin: 0 auto;
+	height:500px;
+}
+
+.Content_Size {
+	width: 960px;
+	margin: 0 auto;
+	padding: 20px 0px 0px 0px;
+
 }
 
 .Content {
+	float:left;
+	padding: 20px;
+	background-color: #fff;
+	width:650px;
 
+}
+.img_about {
+	float:left;
+}
+.p_about {
+	float:left;
+	word-spacing:5px;
+	letter-spacing: 1px;
+	width:300px;
+	margin:0px 0px 0px 10px;
+
+}
+
+.SideBar {
+	float: right;
+	width: 200px;
+	background-color: #fff;
+	padding: 20px;
+	color:#4aaaa5;
+	font-size:20px;
+	font-style:bold;
+	font-family: "Georgia", Times, Times New Roman, serif;
+
+}
+
+.Ftr {
+	clear:both;
+}
+.Header_Font {
+	color:#4aaaa5;
+	font-size: 30px;
+	font-weight:bold;
+	font-family: "Georgia", Times, Times New Roman, serif;
 }
